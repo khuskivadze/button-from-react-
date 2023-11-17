@@ -10,5 +10,13 @@
   align-items: center;
   position: relative;
   padding: 4rem 0;
+  line-height: 10px;
+  gap: 30px;
 }
- 
+
+.center  h1{
+  color: tomato;
+}
+.center  span {
+  color: green;
+}
